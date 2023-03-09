@@ -1,2 +1,2 @@
-def unusual_sum(x, y):
+def unusual_sum(x: int, y: int) -> int:
     return x + y
